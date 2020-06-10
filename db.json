@@ -1,5 +1,5 @@
 [
-        {
+         {
             "Fecha Solicitud": "30/03/2020",
             "Descripción": "Pedido de notebook",
             "Estado": "Abierta"
@@ -14,5 +14,5 @@
             "Descripción": "Pedido de una bicicleta para llegar a la universidad",
             "Estado": "Cerrada"
         }
-    ]
+]
 
