@@ -1,6 +1,4 @@
-{
-    
-    "Solicitudes": [
+[
         {
             "Fecha Solicitud": "30/03/2020",
             "Descripción": "Pedido de notebook",
@@ -17,4 +15,4 @@
             "Estado": "Cerrada"
         }
     ]
-}
+
